@@ -1,0 +1,45 @@
+.Hello {
+    margin-top: 5%;
+    background-color: #f7f7f7; /* light gray background */
+    padding: 20px; /* add some padding to the container */
+    text-align: center; /* center the text */
+    border: 1px solid #ddd; /* add a light gray border */
+    border-radius: 10px; /* add a rounded corner effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* add a subtle shadow effect */
+  }
+  
+  .Hello h1 {
+    font-size: 36px; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+  }
+  
+  .Hello p {
+    font-size: 18px; 
+    margin-bottom: 20px; 
+  }
+  
+  .buttons {
+    text-align: center; /* center the buttons */
+    margin-top: 20px; /* add some space between the buttons and the Hello container */
+  }
+  
+  .buttons button {
+    background-color: #4CAF50; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+  }
+  
+  .buttons button:hover {
+    background-color: #3e8e41; /* darker green background color on hover */
+  }
+
+  #mojo{
+    margin-top: 10%;
+    font-size: 20px;
+font-weight: 500;
+  }
+ 
